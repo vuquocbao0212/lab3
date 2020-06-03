@@ -1,0 +1,223 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-gesture-handler] /work/du-an-new/Myshop/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/a3e40674d2a94a0377b03059657e59e3/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/f9312c95aa657962b3b66a8e9f438563/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/84b4b223dd3a04f9e4f6f5e45c0de19c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/24b7a685acf3e1bebd7417072a2334e2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/60cb472d29e06ead1a72a5d329ac439e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/4b5626e21f8a8142249fbaf8f8900999/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/e9b66dd335bc607e4360dfae51ef5f0d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/76597808b75abd6b16d11a55838d06cd/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/92121902f517890ad2c553fe5b330627/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/1dad1ed0ffe3c3ae043dec937c74e366/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/51030f868cc15dc8e1520c979b91d671/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/52ffdc25168bb9b7f19c829774372061/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/6954a893f4ed77147a94c512a514da46/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/1c51e1d8a8d67d815c11e55614b61977/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/13ba52e76fca0aad3cc1eeb5f363ac3d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/5ed67e8a944d1dda6a2c034b75e75bce/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/2b0265ee998834fd3ed5bb88d553d40d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/d984d1affc4fcb297257ab74c929dbc1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/6bca7b417d21a3575c2e7fcd9e6ba7e3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/64b1e3314f1226c078a951cadba243c7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/df6df23cf76c80d00268bc40e75ed72b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/3e19cfc841915ca9f579aee8a488cb78/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/7fab0b9ec3a589c6cac32fc4c3926c95/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/71dfa001ec622f2027b1098446f0887b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/9cb426b0547cbdbea8c5c6593e0021db/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/47c29f8dcfc1cfbf67a3e89cb0c742ca/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/b7efe9416cb8aa57be95e15a198a9bb8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/b8c445075357b2c58149d16be47d82de/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/1275d7327bf2ad76a1dc38302d8cbb7b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/9cd2834968af920de85257fd21f37a24/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/a1f699ecee72752e5cc3b5eb48f461b4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/08037ff4cd152e60f9dfef7894ad59e6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/7e76d8e8ee1b7ad04804d8b05957400e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/adc8e84db0af03bf4fc600378acb44d8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/e8b2642eac43396658c319ddcc83b0a2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/3351ea9343cc921376db6acf91335eef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/2b1f2b2d0b1bc716ab101f4f020af7a3/AndroidManifest.xml:2:1-9:12
+INJECTED from /work/du-an-new/Myshop/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /work/du-an-new/Myshop/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /work/du-an-new/Myshop/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml:2:3-23
+		INJECTED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml
+		ADDED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml:2:3-23
+		INJECTED from /work/du-an-new/Myshop/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml
+		ADDED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /work/du-an-new/Myshop/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /work/du-an-new/Myshop/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml
+		ADDED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /work/du-an-new/Myshop/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/a3e40674d2a94a0377b03059657e59e3/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/a3e40674d2a94a0377b03059657e59e3/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/51030f868cc15dc8e1520c979b91d671/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/51030f868cc15dc8e1520c979b91d671/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/9cb426b0547cbdbea8c5c6593e0021db/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/9cb426b0547cbdbea8c5c6593e0021db/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/47c29f8dcfc1cfbf67a3e89cb0c742ca/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/47c29f8dcfc1cfbf67a3e89cb0c742ca/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/9cb426b0547cbdbea8c5c6593e0021db/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /work/du-an-new/Myshop/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /work/du-an-new/Myshop/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /work/du-an-new/Myshop/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.myshop.MainActivity
+ADDED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml
+INJECTED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] /work/du-an-new/Myshop/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /work/du-an-new/Myshop/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/a3e40674d2a94a0377b03059657e59e3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/a3e40674d2a94a0377b03059657e59e3/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/f9312c95aa657962b3b66a8e9f438563/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/f9312c95aa657962b3b66a8e9f438563/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/84b4b223dd3a04f9e4f6f5e45c0de19c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/84b4b223dd3a04f9e4f6f5e45c0de19c/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/24b7a685acf3e1bebd7417072a2334e2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/24b7a685acf3e1bebd7417072a2334e2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/60cb472d29e06ead1a72a5d329ac439e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/60cb472d29e06ead1a72a5d329ac439e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/4b5626e21f8a8142249fbaf8f8900999/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/4b5626e21f8a8142249fbaf8f8900999/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/e9b66dd335bc607e4360dfae51ef5f0d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/e9b66dd335bc607e4360dfae51ef5f0d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/76597808b75abd6b16d11a55838d06cd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/76597808b75abd6b16d11a55838d06cd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/92121902f517890ad2c553fe5b330627/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/92121902f517890ad2c553fe5b330627/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/1dad1ed0ffe3c3ae043dec937c74e366/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/1dad1ed0ffe3c3ae043dec937c74e366/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/51030f868cc15dc8e1520c979b91d671/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/51030f868cc15dc8e1520c979b91d671/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/52ffdc25168bb9b7f19c829774372061/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/52ffdc25168bb9b7f19c829774372061/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/6954a893f4ed77147a94c512a514da46/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/6954a893f4ed77147a94c512a514da46/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/1c51e1d8a8d67d815c11e55614b61977/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/1c51e1d8a8d67d815c11e55614b61977/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/13ba52e76fca0aad3cc1eeb5f363ac3d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/13ba52e76fca0aad3cc1eeb5f363ac3d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/5ed67e8a944d1dda6a2c034b75e75bce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/5ed67e8a944d1dda6a2c034b75e75bce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/2b0265ee998834fd3ed5bb88d553d40d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/2b0265ee998834fd3ed5bb88d553d40d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/d984d1affc4fcb297257ab74c929dbc1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/d984d1affc4fcb297257ab74c929dbc1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/6bca7b417d21a3575c2e7fcd9e6ba7e3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/6bca7b417d21a3575c2e7fcd9e6ba7e3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/64b1e3314f1226c078a951cadba243c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/64b1e3314f1226c078a951cadba243c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/df6df23cf76c80d00268bc40e75ed72b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/df6df23cf76c80d00268bc40e75ed72b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/3e19cfc841915ca9f579aee8a488cb78/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/3e19cfc841915ca9f579aee8a488cb78/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/7fab0b9ec3a589c6cac32fc4c3926c95/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/7fab0b9ec3a589c6cac32fc4c3926c95/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/71dfa001ec622f2027b1098446f0887b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/71dfa001ec622f2027b1098446f0887b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/9cb426b0547cbdbea8c5c6593e0021db/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/9cb426b0547cbdbea8c5c6593e0021db/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/47c29f8dcfc1cfbf67a3e89cb0c742ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/47c29f8dcfc1cfbf67a3e89cb0c742ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/b7efe9416cb8aa57be95e15a198a9bb8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/b7efe9416cb8aa57be95e15a198a9bb8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/b8c445075357b2c58149d16be47d82de/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/b8c445075357b2c58149d16be47d82de/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/1275d7327bf2ad76a1dc38302d8cbb7b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/1275d7327bf2ad76a1dc38302d8cbb7b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/9cd2834968af920de85257fd21f37a24/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/9cd2834968af920de85257fd21f37a24/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/a1f699ecee72752e5cc3b5eb48f461b4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/a1f699ecee72752e5cc3b5eb48f461b4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/08037ff4cd152e60f9dfef7894ad59e6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/08037ff4cd152e60f9dfef7894ad59e6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/7e76d8e8ee1b7ad04804d8b05957400e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/7e76d8e8ee1b7ad04804d8b05957400e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/adc8e84db0af03bf4fc600378acb44d8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/adc8e84db0af03bf4fc600378acb44d8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/e8b2642eac43396658c319ddcc83b0a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/e8b2642eac43396658c319ddcc83b0a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/3351ea9343cc921376db6acf91335eef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/3351ea9343cc921376db6acf91335eef/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/2b1f2b2d0b1bc716ab101f4f020af7a3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/letuyen/.gradle/caches/transforms-2/files-2.1/2b1f2b2d0b1bc716ab101f4f020af7a3/AndroidManifest.xml:5:5-7:41
+INJECTED from /work/du-an-new/Myshop/android/app/src/debug/AndroidManifest.xml
+INJECTED from /work/du-an-new/Myshop/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml
+		INJECTED from /work/du-an-new/Myshop/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /work/du-an-new/Myshop/android/app/src/main/AndroidManifest.xml
+		INJECTED from /work/du-an-new/Myshop/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /work/du-an-new/Myshop/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /work/du-an-new/Myshop/android/app/src/debug/AndroidManifest.xml:5:22-75

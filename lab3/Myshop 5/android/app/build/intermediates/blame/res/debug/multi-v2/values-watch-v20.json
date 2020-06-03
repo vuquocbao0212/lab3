@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/work/du-an-new/Myshop/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/Users/letuyen/.gradle/caches/transforms-2/files-2.1/84b4b223dd3a04f9e4f6f5e45c0de19c/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

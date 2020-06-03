@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/work/du-an-new/Myshop/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/Users/letuyen/.gradle/caches/transforms-2/files-2.1/84b4b223dd3a04f9e4f6f5e45c0de19c/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                }
+            ]
+        }
+    ]
+}

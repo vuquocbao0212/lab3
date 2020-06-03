@@ -1,0 +1,4 @@
+#Wed Aug 28 09:29:44 ICT 2019
+base.0=/work/du-an-new/Myshop/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
